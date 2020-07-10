@@ -8,7 +8,7 @@ sobre óbitos de doenças respiratórias ocorridas no Brasil nos anos de
 
 
 * Pasta '__Data__'
-> Pasta com datasets no formato '.CSV', que foram baixadas do portal da transparência.
+> Pasta com datasets no formato '.CSV' baixados do portal da transparência.
 > Segundo o site, os dados tinham origem do SIRC - Sistema Nacional de Informações de Registro Civil.
 > O dataset de 2019 possui dados consolidados do ano. 
 > O dataset de 2020 possui dados consolidados até 16/06/2020 (os arquivos foram retirados após essa data pelos mantenedores).
