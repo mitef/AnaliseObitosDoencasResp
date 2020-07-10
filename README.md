@@ -18,11 +18,14 @@ sobre óbitos de doenças respiratórias ocorridas no Brasil nos anos de
 > Pasta com arquivos '.ipynb' onde constam os códigos em Python que realizam a extração, preparação
 e apresentação dos dados.
 + Arquivos:
-    - ComparativosSRAG19_20: arquivo que mostra o comparativo de óbitos por SRAG. 
+    - ComparativosSRAG19_20: notebook que mostra o comparativo do número de óbitos por SRAG no Brasil entre 2019 e 16/06/2020.
+    - Novos arquivos: serão adicionados novos notebooks apresentando outros dados relativos ao tema. 
 
 
 * Para executar, editar ou brincar :) com os arquivos:
 > Será necessário ter instalado o Python, jupyter lab (ou notebook) e mais as ferramentas para trabalhar
 com dados do Python: numpy, pandas e matplotib. Por isso, indico a instalação do [anaconda](https://www.anaconda.com/products/individual),
 que vem com tudo prontinho para usar.
+
+
 
