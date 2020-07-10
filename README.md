@@ -24,7 +24,7 @@ e apresentação dos dados.
 
 * Para executar, editar ou brincar :) com os arquivos:
 > Será necessário ter instalado o Python, jupyter lab (ou notebook) e mais as ferramentas para trabalhar
-com dados do Python: numpy, pandas e matplotib. Por isso, indico a instalação do [anaconda](https://www.anaconda.com/products/individual),
+com dados do Python: numpy, pandas e matplotlib. Por isso, indico a instalação do [anaconda](https://www.anaconda.com/products/individual),
 que vem com tudo prontinho para usar.
 
 
